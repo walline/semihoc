@@ -1,2 +1,2 @@
-# semihoc
-Official repository for WACV 2026 paper "Semi-Supervised Hierarchical Open-Set Classification"
+# SemiHOC
+The code will be releaased before the WACV 2026 conference.
